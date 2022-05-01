@@ -19,7 +19,7 @@
 	<img align="center" alt="ed-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="ed-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ed-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="right" alt="" height="150" style="border-radius:50px;" src="#">
+  <img align="right" alt="" height="150" style="border-radius:50px;" src="/">
 </div>
   
   ##
