@@ -6,13 +6,12 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ed-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ed-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ed-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Ed-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Ed-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ed-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ed-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Ed-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Ed-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ed-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ed-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="right" alt="Ed-pic" height="150" style="border-radius:50px;" src="https://instagram.fguz1-1.fna.fbcdn.net/v/t51.2885-19/279543138_1081444489462695_4549549341280917493_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fguz1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=w7dqKLSgftcAX9nmY3R&tn=jdlxvkgVHQrs1zIN&edm=ALwy07oBAAAA&ccb=7-4&oh=00_AT_5rofA3Zz1C1wYXgBkNPNNn-4OKR8VvIdjxk1BwVPzHw&oe=627518B3&_nc_sid=261c40">
 </div>
   
