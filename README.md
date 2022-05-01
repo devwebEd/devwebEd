@@ -19,7 +19,7 @@
 	<img align="center" alt="ed-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="ed-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ed-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="right" alt="" height="150" style="border-radius:50px;" src="/">
+  <img align="right" alt="" height="150" style="border-radius:50px;" src="https://scontent.fguz1-1.fna.fbcdn.net/v/t39.30808-6/271289899_690878972293113_6687122098433882155_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_ohc=Ekx7eqIzFBEAX-21-zZ&_nc_oc=AQk7tn9EefBVDksKPL4QcrY2FGSSDny67XXpT2VBdDikukCFtmWYFPrv4eE6MJoIyqM&_nc_ht=scontent.fguz1-1.fna&oh=00_AT_2U94o2F-ovHC5_1_JrwAA3t6St0YpSVwaRqfpq035pw&oe=62737C0B">
 </div>
   
   ##
