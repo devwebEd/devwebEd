@@ -19,7 +19,7 @@
 	<img align="center" alt="ed-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="ed-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ed-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="right" alt="" height="150" style="border-radius:50px;" src="https://scontent.fguz1-1.fna.fbcdn.net/v/t39.30808-6/279407251_766899624691047_6837384923368717936_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=CKbhgwaBLQgAX81ozj2&tn=QH9nMeWOCot7zLvL&_nc_ht=scontent.fguz1-1.fna&oh=00_AT85611gP1h5TIuNrOmTrqz3iYYaktC3GnRLs3_pzX9JUw&oe=6272D3B0">
+  <img align="right" alt="" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
   ##
