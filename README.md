@@ -1,4 +1,4 @@
-## Oiii eu sou a Edson Campos (Ed), criadora de conteúdo de programação e tecnologia!
+## Bem vindo ao meu github, me chamo Edson Campos e desde de 2018 tenho trilhado o caminho do desenvolvimento e criação na web...
 <div align="center">
   <a href="https://github.com/devwebEd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devwebEd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
